@@ -15,3 +15,15 @@ http://blog.eood.cn/archive
 
 5.
 http://blog.csdn.net/dlutbrucezhang/article/details/9998781
+
+6.
+VLC for Android源码下载和编译
+1.vlc for android  已经发布了，开源的地址是：
+ 
+http://wiki.videolan.org/AndroidCompile
+ 
+这里面有详细的使用说明，
+ 
+其中源码获取是：
+ 
+git clone git://git.videolan.org/vlc-ports/android.git
