@@ -27,3 +27,7 @@ http://wiki.videolan.org/AndroidCompile
 其中源码获取是：
  
 git clone git://git.videolan.org/vlc-ports/android.git
+
+
+前端组件库
+http://top.css88.com/archives/660
