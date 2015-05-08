@@ -31,3 +31,7 @@ git clone git://git.videolan.org/vlc-ports/android.git
 
 前端组件库
 http://top.css88.com/archives/660
+
+
+AEAI WX 微信扩展框架 V1.0 
+https://git.oschina.net/agileai/aeaiwx
