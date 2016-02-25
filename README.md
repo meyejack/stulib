@@ -50,3 +50,4 @@ http://yougg.github.io/static/gonote/GolangStudy.html
 http://studygolang.com/pkgdoc
 
 
+https://github.com/hyper-carrot/awesome-go-China
