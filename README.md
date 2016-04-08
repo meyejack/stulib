@@ -61,3 +61,19 @@ https://segmentfault.com/a/1190000002451537
 Github资源整理
 http://ju.outofmemory.cn/entry/116920
 http://outofmemory.cn/github/*/go/?sort=followers
+
+
+GitHub中国区前100名到底是什么样的人
+http://www.lupaworld.com/article-257872-1.html
+http://githubrank.com/
+
+
+深受C/C++程序员欢迎的11款IDE
+http://www.lupaworld.com/article-257893-1.html
+
+
+优秀代码所具备的5大品质
+http://www.lupaworld.com/article-257894-1.html
+
+android security
+https://source.android.com/security/bulletin/2016-04-02.html
