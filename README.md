@@ -77,3 +77,10 @@ http://www.lupaworld.com/article-257894-1.html
 
 android security
 https://source.android.com/security/bulletin/2016-04-02.html
+
+
+http://www.androidweekly.cn/tag/androiddevweekly/
+
+
+
+
