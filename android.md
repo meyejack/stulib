@@ -27,3 +27,7 @@ http://blog.csdn.net/tikitoo/article/details/51089422
 
 Android 开发者必备的书单
 http://blog.csdn.net/tikitoo/article/details/50374302
+
+
+Android性能优化之被忽视的Memory Leaks
+http://blog.csdn.net/sdkfjksf/article/details/51192852
