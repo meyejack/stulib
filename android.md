@@ -97,3 +97,9 @@ Android 开发经验谈是由张明云 维护更新的简书专栏，目前已�
 
 15个Android通用流行框架大全
 http://www.lupaworld.com/article-258693-1.html
+
+
+openframeworks:
+http://openframeworks.cc/setup/android-eclipse/
+
+
