@@ -1,2 +1,15 @@
 camera:
 http://blog.csdn.net/jiangwei0910410003/article/details/52057543
+
+
+libuvc:
+
+https://github.com/ktossell/libuvc
+
+https://int80k.com/libuvc/doc/index.html
+
+
+uvccamera:
+https://github.com/saki4510t/UVCCamera
+
+https://github.com/TimGroeneboom/libuvc_android_unity
