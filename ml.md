@@ -9,3 +9,6 @@
 
 http://meta-guide.com/software-meta-guide/100-best-github-deep-learning
 
+https://www.jianshu.com/p/bd2cb7f1522b
+
+https://www.jianshu.com/p/ab8af76e916f
